@@ -17,17 +17,17 @@ public class Pregunta10 {
     public static void main(String[] args) {
         int n;
         n = 2;
-        
-        while (n<=3) {
+
+        while (n <= 3) {
             n = n + 1;
         }
-        
-        while (n<=4) {
+
+        while (n <= 4) {
             n = n + 1;
         }
-        
+
         System.out.println(n);
-        
+
     }
-    
+
 }

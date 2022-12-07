@@ -23,9 +23,9 @@ public class Pregunta09 {
             System.out.println(numero);
             numero = numero - 10;
         } while (bandera);
-        
+
         System.out.println(numero);
-        
+
     }
-    
+
 }

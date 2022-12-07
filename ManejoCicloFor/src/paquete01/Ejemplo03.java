@@ -19,7 +19,7 @@ public class Ejemplo03 {
         int sumaAcumulacion = 0;
         
         for (int i = 10; i <= 20; i += 2) {
-            sumaAcumulacion = sumaAcumulacion + i; // 0 + 10
+            sumaAcumulacion = sumaAcumulacion + i; //  0 + 10
                                                    // 10 + 12
                                                    // 22 + 14
         }

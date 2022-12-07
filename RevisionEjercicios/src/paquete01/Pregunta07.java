@@ -21,7 +21,7 @@ public class Pregunta07 {
             System.out.println("A");
         }
         
-        if (nota<7) {
+        if (nota<10) {
             System.out.println("B");
         }else{
             System.out.println("C");
